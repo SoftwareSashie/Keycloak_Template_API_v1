@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Keycloak_Template_API.props" />
-</Project>
